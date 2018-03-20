@@ -1,0 +1,16 @@
+{
+    "id": 737132,
+    "asset": {
+        "_class": "asset",
+        "id": 538362,
+        "download_urls": {
+            "Video": [{
+                "type": "video/mp4",
+                "label": "360"
+            }, {
+                "type": "video/mp4",
+                "label": "720"
+            }]
+        }
+    }
+}
